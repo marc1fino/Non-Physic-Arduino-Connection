@@ -12,17 +12,8 @@ This system enables data transfer between two boards (ESP32 and Arduino UNO) wit
     <tr>
       <td width="50%">
         <div align="center">
-        <p> align="center">Arduino UNO R4 Board</p>
-        <img src="https://i.ibb.co/C9TqP3f/marksfuncs-2.pn" width="400" alt="MarksAi Discord Bot">
-          <p>
-            <a href="https://github.com/marc1fino/MarksAi" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-3bd0f0?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://discord.com/oauth2/authorize?client_id=1238487304553762889&permissions=8&scope=bot+applications.commands" target="_blank">
-              <img src="https://dcbadge.limes.pink/api/shield/1238487304553762889?bot=true">
-            </a>
-          </p>
-          <p>Use <strong>MarksAi</strong> to use many artificial intelligence commands and options with different AI APIs with a Discord Bot.</p>
+        <p> Arduino UNO R3 Board</p>
+        <img src="https://i.ibb.co/nR6ZPp4/71z22c-RPee-L.jpg" width="400" alt="Arduino UNO R3 Board">
         </div>
       </td>
     </tr>
