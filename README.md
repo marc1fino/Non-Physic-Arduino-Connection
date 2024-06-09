@@ -1,6 +1,7 @@
 # Non-Fisic-Arduino-Connection
 
 This system enables data transfer between two boards (ESP32 and Arduino UNO) within the Arduino environment without the need for physical or wireless connections, by utilizing a log file (`logs.txt`).
+<br>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
 <br>
