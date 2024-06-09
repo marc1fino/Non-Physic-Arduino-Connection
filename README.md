@@ -8,7 +8,7 @@ This system enables data transfer between two boards (ESP32 and Arduino UNO) wit
 
 ## Materials
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td width="50%">
