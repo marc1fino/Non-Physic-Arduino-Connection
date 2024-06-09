@@ -37,7 +37,7 @@ This system enables data transfer between two boards (ESP32 and Arduino UNO) wit
 <br>
 <br>
 
-## Usage
+## Enhanced Usage Instructions
 
 - This system **leverages Python** to retrieve data from the **ESP32** and logs it into a log file (`logs.txt`).
 - Subsequently, the **Arduino UNO R3** reads the data from this log file and processes it accordingly.
