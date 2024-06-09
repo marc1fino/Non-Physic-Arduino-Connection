@@ -22,3 +22,15 @@ This system enables data transfer between two boards (ESP32 and Arduino UNO) wit
     </tr>
   </table>
 </div>
+<div>
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+        <p> ESP32 Dev Kit V1 Board</p>
+        <img src="https://i.ibb.co/RDgxnNc/image-1024.jpg" width="400" alt="ESP32 Dev Kit V1 Board">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
