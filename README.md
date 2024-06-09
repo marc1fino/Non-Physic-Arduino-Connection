@@ -6,7 +6,7 @@ This system enables data transfer between two boards (ESP32 and Arduino UNO) wit
 <img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
 <br>
 
-## Materials
+# Materials
 
 <div>
   <table>
